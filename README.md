@@ -162,3 +162,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [DMZ Switch]
 - [x] [DNS Management]
 - [x] [Port Scanning]
+
+## Algorithm
+- [x] Scheduling Algorithms
+- [x] Data Structures
