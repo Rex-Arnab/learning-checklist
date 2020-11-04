@@ -15,7 +15,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
 - [ ] [MongoDB](https://www.mongodb.com/)
 - [ ] [Rancher](http://rancher.com/)
-- [ ] [Nginx](https://www.nginx.com)
+- [x] [Nginx](https://www.nginx.com)
 - [x] [Let's Encrypt](https://letsencrypt.org/)
 - [x] [Bash Shell](http://www.bash.academy/)
 - [x] [AWS](https://aws.amazon.com/)
@@ -40,11 +40,11 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [x] [Angular 2](https://angular.io/)
   - [ ] [React](https://facebook.github.io/react/)
   - [ ] [Redux](https://redux.js.org/)
-  - [x] [React Native](https://facebook.github.io/react-native/)
+  - [ ] [React Native](https://facebook.github.io/react-native/)
   - [ ] [Ember](http://emberjs.com/)
   - [ ] [Backbone](http://backbonejs.org/)
   - [x] [Node.js](https://nodejs.org/en/)
-  - [ ] [Express.js](https://expressjs.com/)
+  - [x] [Express.js](https://expressjs.com/)
   - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
   - [ ] [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
   - [ ] [D3.js](http://d3js.org)
@@ -53,8 +53,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [C](http://www.tutorialspoint.com/cprogramming/)
 - [x] [C++](http://www.tutorialspoint.com/cplusplus/)
   - [ ] [Qt](https://www.qt.io/)
-  - [ ] [OpenCV](http://opencv.org/)
-- [ ] [C#](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
+  - [x] [OpenCV](http://opencv.org/)
+- [x] [C#](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [x] [HTML](https://www.w3.org/html/)
@@ -107,13 +107,13 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Long Short Time Memory](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [ ] [Hopfield Network](https://en.wikipedia.org/wiki/Hopfield_network)
   - [ ] [Gaussian Mixture Models](http://scikit-learn.org/stable/modules/mixture.html)
-- [ ] Frameworks and Tools
+## Frameworks and Tools
   - [ ] [Torch](http://torch.ch/)
   - [ ] [Theano](https://github.com/Theano/Theano)
   - [ ] [TensorFlow](https://www.tensorflow.org/)
   - [ ] [APIs](https://www.codecademy.com/en/tracks/npr)
   - [ ] [Natural Language Processing](http://www.nltk.org/)
-  - [ ] Extended Backus-Naur Form (EBNF)
+  - [ ] [Extended Backus-Naur Form (EBNF)]
 
 ## Deep Learning
 
@@ -143,7 +143,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Bitcoin](https://bitcoin.org/en/developer-documentation)
 
 ## Internet of Things
-- [ ] [IOT DIY projects](http://www.instructables.com/)
+- [x] [IOT DIY projects](http://www.instructables.com/)
 - [ ] [WiFi Positioning](https://blog.rocketsoftware.com/2015/11/indoor-positioning-iot/)
 - [x] [Arduino](https://www.arduino.cc/)
 - [ ] [ESP8266](http://www.esp8266.com/)
@@ -166,3 +166,18 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ## Algorithm
 - [x] Scheduling Algorithms
 - [x] Data Structures
+
+## Books READ
+  - [x] Rich Dad Poor Dad
+  - [x] The Richest Man in Babylon
+  - [x] cashflow Quadrant
+  - [x] Guide to investing
+  - [x] Fake by robert kiyosaki
+  - [ ] Scale Up
+- [ ] Think and Grow Rich
+- [ ] How to win Friends and Influence People
+  - [ ] Build to sell
+  - [ ] Traction
+  - [ ] Profit First
+- [ ] The 7 Habits of Highly Effective People by Stehen. R
+- [ ] Eat that frog! by Brain Tracy
