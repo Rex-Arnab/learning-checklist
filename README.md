@@ -12,7 +12,6 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [GitLab](https://gitlab.com/)
 - [x] [Heroku](https://heroku.com/)
 - [ ] [Spark](http://spark.apache.org/)
-- [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
 - [x] [MongoDB](https://www.mongodb.com/)
 - [ ] [Rancher](http://rancher.com/)
 - [ ] [Nginx](https://www.nginx.com)
@@ -20,17 +19,28 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Bash Shell](http://www.bash.academy/)
 - [x] [AWS](https://aws.amazon.com/)
 - [ ] [Vim](https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
-- [ ] [GitHub Desktop](https://desktop.github.com/)
+- [x] [GitHub Desktop](https://desktop.github.com/)
 - [ ] [GitKraken](https://www.gitkraken.com/)
 - [ ] [Logstash](www.elastic.co/products/logstash)
 - [x] [Z-shell](http://www.zsh.org/)
 - [ ] [Emacs](https://www.gnu.org/software/emacs/)
 - [x] [Npm](https://www.npmjs.com/)
 - [x] [Yarn](https://yarnpkg.com/)
+- [x] [Pnpm](https://pnpm.io/)
 - [ ] [Webpack](https://webpack.github.io/)
 - [ ] [PlatformIO](https://github.com/platformio)
 - [ ] [Micro Editor](https://github.com/zyedidia/micro)
 - [ ] [InfluxDB](https://www.influxdata.com/)
+- [ ] [Apollo](https://www.influxdata.com/)
+- [x] [GraphQL](https://www.influxdata.com/)
+- [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
+- [ ] [Entity Framework](https://www.influxdata.com/)
+- [ ] [Xamarin Forms](https://www.influxdata.com/)
+- [ ] [Build tools](https://www.influxdata.com/)
+  - [ ] [TeamCity](https://www.influxdata.com/)
+  - [ ] [Jenkins](https://www.influxdata.com/)
+  - [ ] [Octopus Deploy](https://www.influxdata.com/)
+- [ ] [Visual Studio/C#/.NET](https://www.influxdata.com/)
 
 ## "Programming" Languages
 
@@ -40,7 +50,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [x] [Angular 2](https://angular.io/)
   - [x] [React](https://facebook.github.io/react/)
   - [x] [Redux](https://redux.js.org/)
-  - [ ] [React Native](https://facebook.github.io/react-native/)
+  - [x] [React Native](https://facebook.github.io/react-native/)
   - [ ] [Ember](http://emberjs.com/)
   - [ ] [Backbone](http://backbonejs.org/)
   - [x] [Node.js](https://nodejs.org/en/)
@@ -72,6 +82,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [R](https://www.coursera.org/learn/r-programming/)
 - [ ] [Nim](http://nim-lang.org/)
 - [x] [TypeScript](https://www.typescriptlang.org/)
+- [x] [Python](https://www.python.org/)
 
 ### Python
 
@@ -84,26 +95,26 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [scikit-learn](http://scikit-learn.org/)
 - [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
 - [x] [Web2Py](http://www.web2py.com/)
-- [x] [Django](https://www.djangoproject.com/)
+- [ ] [Django](https://www.djangoproject.com/)
 - [ ] [Django REST Framework](http://www.django-rest-framework.org/)
 - [x] [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [ ] [Pyramid](http://www.pylonsproject.org/)
 - [x] [Scapy](http://www.secdev.org/projects/scapy/doc/introduction.html)
-- [ ] [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+- [x] [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)
   - [ ] [Linear Classifiers](https://en.wikipedia.org/wiki/Linear_classifier)
   - [ ] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
   - [x] [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
-  - [ ] [Regression](https://www.coursera.org/learn/ml-regression)
+  - [x] [Regression](https://www.coursera.org/learn/ml-regression)
   - [x] [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   - [x] [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis)
-  - [ ] [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
-  - [ ] [Convolution Neural Networks](http://cs231n.github.io/neural-networks-case-study/)
-  - [ ] [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-  - [ ] [Deep Networks](https://en.wikipedia.org/wiki/Deep_learning)
-  - [ ] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
+  - [x] [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+  - [x] [Convolution Neural Networks](http://cs231n.github.io/neural-networks-case-study/)
+  - [x] [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+  - [x] [Deep Networks](https://en.wikipedia.org/wiki/Deep_learning)
+  - [x] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
   - [ ] [Bidirectional Associative Memory](https://en.wikipedia.org/wiki/Bidirectional_associative_memory)
   - [ ] [Long Short Time Memory](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [ ] [Hopfield Network](https://en.wikipedia.org/wiki/Hopfield_network)
@@ -149,9 +160,9 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## Internet of Things
 - [x] [IOT DIY projects](http://www.instructables.com/)
-- [ ] [WiFi Positioning](https://blog.rocketsoftware.com/2015/11/indoor-positioning-iot/)
+- [x] [WiFi Positioning](https://blog.rocketsoftware.com/2015/11/indoor-positioning-iot/)
 - [x] [Arduino](https://www.arduino.cc/)
-- [ ] [ESP8266](http://www.esp8266.com/)
+- [x] [ESP8266](http://www.esp8266.com/)
 - [x] [Raspberry Pi](https://www.raspberrypi.org/)
 
 ## Human Languages
@@ -173,17 +184,17 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] Data Structures
 
 ## Books READ
-  - [x] Rich Dad Poor Dad
-  - [x] The Richest Man in Babylon
-  - [x] cashflow Quadrant
-  - [x] Guide to investing
-  - [x] Fake by robert kiyosaki
-  - [ ] Scale Up
+- [x] Rich Dad Poor Dad
+- [x] The Richest Man in Babylon
+- [x] cashflow Quadrant
+- [x] Guide to investing
+- [x] Fake by robert kiyosaki
+- [ ] Scale Up
 - [ ] Think and Grow Rich
 - [ ] How to win Friends and Influence People
-  - [ ] Build to sell
-  - [ ] Traction
-  - [ ] Profit First
+- [ ] Build to sell
+- [ ] Traction
+- [ ] Profit First
 - [ ] The 7 Habits of Highly Effective People by Stehen. R
 - [ ] Eat that frog! by Brain Tracy
 - [x] Copycat Marketing 101 by Burke Hedges
